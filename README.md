@@ -65,6 +65,7 @@ is hit during a back off sequence, the robot does not continue with the next bac
 immediately. 
 
 To provide the information to the robot, a JSON file is provided with the following format: 
+
 {
 
  "map": [
